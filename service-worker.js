@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/christmas-scavenger-hunt/precache-manifest.05b890c4dd512843b044a36daa066fce.js"
+  "/christmas-scavenger-hunt/precache-manifest.b6858a4aa210ea8e88535b3d0471b4ff.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fea0d958c2a55cd8167a55166d212d5e",
+    "revision": "ea57c5111372c6d8286c1dbd10091010",
     "url": "/christmas-scavenger-hunt/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/christmas-scavenger-hunt/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "207cc4f3abf278706050",
+    "revision": "b2ec9fcd55b402a1384f",
     "url": "/christmas-scavenger-hunt/static/css/main.aa0b0b7f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/christmas-scavenger-hunt/static/js/2.10e21516.chunk.js"
   },
   {
-    "revision": "207cc4f3abf278706050",
-    "url": "/christmas-scavenger-hunt/static/js/main.3bf0f98c.chunk.js"
+    "revision": "b2ec9fcd55b402a1384f",
+    "url": "/christmas-scavenger-hunt/static/js/main.5422d998.chunk.js"
   },
   {
     "revision": "8d7ef9639aadc9cce798",
