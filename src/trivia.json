@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who does Elsa accidentally hurt with her powers?",
+    "answers": ["Olaf", "Kristoff", "Hans", "Anna"],
+    "correct": 3
+  },
+  {
+    "question": "What is the first line of the song 'Let It Go'?",
+    "answers": [
+      "I can show you the world. Shining, shimmering, splendid.",
+      "The snow glows white on the mountain tonight. Not a footprint to be seen.",
+      "The line where the sky meets the sea? It calls me. And no one knows, how far it goes.",
+      "The seaweed is always greener in somebody else's lake."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Where is Elsa's Ice Palace located?",
+    "answers": [
+      "Mattoon",
+      "The Southern Isles",
+      "North Mountain",
+      "The Enchanted Forest"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What year did the original Dream Team play in the Barcelona Olympics?",
+    "answers": ["1952", "1972", "1992", "2012"],
+    "correct": 2
+  },
+  {
+    "question": "What is the only NBA team not located in the United States?",
+    "answers": [
+      "Toronto Raptors",
+      "Phoenix Suns",
+      "Detroit Pistons",
+      "Orlando Magic"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What NBA team won the championship in 2015, 2017 and 2018?",
+    "answers": [
+      "Cleveland Cavaliers",
+      "San Antonio Spurs",
+      "Los Angeles Lakers",
+      "Golden State Warriors"
+    ],
+    "correct": 3
+  }
+]

@@ -1,22 +1,119 @@
-.App {
-  text-align: center;
+html,
+body {
+  height: 100%;
+  background-image: url("./background.jpg");
+  background-repeat: repeat;
+  background-size: auto;
 }
 
-.App-logo {
-  height: 40vmin;
+li {
+  font-size: 1.2rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+#root {
   color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+#main-btn {
+  background-color: #c62020;
+  border-color: white;
+}
+
+#main-btn:hover {
+  background-color: #590212;
+}
+
+.code-img {
+  height: 55px;
+  width: 55px;
+  padding: 5px;
+}
+
+#letter,
+#number {
+  width: 90px;
+  height: 90px;
+  font-size: 45px;
+  text-align: center;
+}
+
+#code-submit {
+  width: 205px;
+  background-color: #c62020;
+}
+
+#code-submit:hover {
+  width: 205px;
+  background-color: #590212;
+}
+
+#ans-submit {
+  background-color: #c62020;
+}
+
+#ans-submit:hover {
+  background-color: #590212;
+}
+
+#ans-rock {
+  background-color: #c62020;
+  width: 80px;
+}
+
+#ans-hover {
+  background-color: #590212;
+}
+
+.game-area {
+  background-color: #274001 !important;
+}
+
+.nba {
+  width: 225px;
+}
+
+.princess {
+  width: 225px;
+  height: 225px;
+}
+
+.mini-nba {
+  width: 100px;
+  margin-bottom: 5px;
+}
+
+.p-button {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
+
+.matched {
+  visibility: hidden;
+}
+
+#btn-brd {
+  background-color: white;
+  border: white;
+  opacity: 1;
+}
+
+#rock-msg {
+  height: 90px;
+  white-space: pre-wrap;
+}
+
+.players {
+  width: 150px;
+}
+
+.score {
+  font-size: 75px;
+}
+
+.rock-choice {
+  font-size: 30px;
 }
